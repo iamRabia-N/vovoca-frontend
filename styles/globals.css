@@ -38,7 +38,9 @@ textarea {
   background-origin: padding-box, border-box;
   box-shadow: inset 2px 2px 8px rgb(4 4 5 / 60%);
   transition: 0.7s ease-in-out;
+  padding: 1rem 1.25rem;
   font-size: 0.9375rem;
+  font-weight: 400;
   line-height: 1.74;
   color: #d7e1ec;
   background-color: #2c2d2f;
